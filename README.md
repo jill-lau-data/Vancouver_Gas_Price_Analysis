@@ -1,6 +1,6 @@
 # Google Apps Script Gas Price Fetcher
 
-This Google Apps Script fetches gas prices from GasBuddy.com and stores them in a Google Sheet.
+This Google Apps Script fetches gas prices of 18 different locations in Greater Vancouver from GasBuddy.com and stores them in a Google Sheet.
 
 ## Usage
 
