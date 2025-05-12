@@ -71,8 +71,3 @@ Below is a sample row from the `GasPrices` sheet after running the script:
 - Implement error handling for invalid station IDs.
 - Include a notification system to alert users of significant price changes.
 
-## License
-This script is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-For questions or support, contact Jill Lau at [your-email@example.com].
