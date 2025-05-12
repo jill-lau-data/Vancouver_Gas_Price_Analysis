@@ -7,7 +7,7 @@ Hey there! This is the **Vancouver Gas Price Analysis Notebook**—where I take 
 1. **Grab the Data**: Make sure you’ve run the [Google Apps Script Gas Price Fetcher](https://github.com/jill-lau-data/vancouver_gas_price/blob/main/fetcher/README.md) to get your gas price data into a Google Sheet. Export it as a CSV and save it somewhere handy.  
 2. **Set Up Python**: Install the tools you need—check out the `requirements.txt` file and run `pip install -r requirements.txt` in your terminal. It’s like prepping your kitchen before cooking! 🍲  
 3. **Open the Notebook**: Fire up Jupyter Notebook (or JupyterLab) and open `Vancouver Gas Price Analysis.ipynb`.  
-4. **Run the Code**: Follow the steps in the notebook—load your data, play with the charts, and see what pops up! The output folder (`outputs/`) will fill up with cool visuals like heatmaps and interaction plots.  
+4. **Run the Code**: Follow the steps in the notebook—load your data, play with the charts, and see what pops up!  
 5. **Explore the Findings**: Check if Richmond’s night prices (maybe around 149.8 cents/liter at 11 PM!) beat the rest. Let me know what you think! 😄  
 
 ## What’s Inside? 📋  
