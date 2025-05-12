@@ -15,12 +15,10 @@ Here’s a quick peek at how everything’s organized:
 - `fetcher/`: This is where the magic of collecting gas prices happens!  
   - `fetcher/gas_price_fetcher.js`: The script that does the heavy lifting.  
   - `fetcher/README.md`: A step-by-step guide on how to use it.  
-  - `fetcher/sample_data/`: Some sample data so you can see what it looks like (totally optional).  
 - `analysis/`: This is where I crunch the numbers and find the good stuff!  
   - `analysis/Vancouver Gas Price Analysis.ipynb`: My notebook with all the analysis.  
   - `analysis/README.md`: Instructions on how to run it yourself.  
   - `analysis/requirements.txt`: The Python tools you’ll need to get started.  
-  - `analysis/outputs/`: Cool charts like heatmaps to show you what I found!  
 - `README.md`: You’re reading it right now—a fun intro to the project!  
 - `LICENSE`: The MIT License, so you can use this project however you like.  
 
