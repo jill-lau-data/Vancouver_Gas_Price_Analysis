@@ -1,4 +1,4 @@
-# Google Apps Script Gas Price Fetcher
+# ⛽ Google Apps Script Gas Price Fetcher
 
 This Google Apps Script fetches gas prices from GasBuddy.com for 18 locations in Greater Vancouver and stores them in a Google Sheet for analysis. It was developed as part of a broader data analysis project to identify cost-saving opportunities for Richmond residents by monitoring gas price trends. The script is useful for residents, data analysts, or businesses looking to track fuel prices automatically.
 
