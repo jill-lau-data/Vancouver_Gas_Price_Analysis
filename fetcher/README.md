@@ -27,11 +27,11 @@ Okay, let’s talk about why I picked these 18 locations! First off, I didn’t 
 
 ## Data Dictionary 📚  
 Here’s what you’ll find in your Google Sheet:  
-- **GasPrices Tab**:  
+- **GasPrices Tab** - fetch from GasBuddy.com:  
   - `Timestamp`: When the price was grabbed.  
   - `Station ID`: A unique ID for each station.  
   - `Regular Price`: The price in cents (e.g., 149.8¢).  
-- **StationIDs Tab**:  
+- **StationIDs Tab** - mannually input by myself and get from GasBuddy.com:  
   - `Station ID`: Matches the GasPrices tab.  
   - `Station Name`: The station’s name.  
   - `Area`: Where it’s located (e.g., Richmond).  
