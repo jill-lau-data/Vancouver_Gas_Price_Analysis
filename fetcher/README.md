@@ -12,6 +12,7 @@ The fetcher uses a Google Sheet to manage station IDs and store gas price data:
 
 You can view the data here:
 [Vancouver Gas Price Data](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDGPYEan2SSVaR3j2zN8tms3qPBNFzXB-C1SLdngzT-N0Sv2AmslSLbHp8zRX202drBACB0CgRrbI_/pubhtml)
+
 **Note**: The sheet is published for public viewing. To add or modify station IDs, contact the repository owner for edit access.
 
 ## How to Use It? 🛠️  
