@@ -11,7 +11,7 @@ Hey there! This is the **Vancouver Gas Price Analysis Notebook**—where I take 
 5. **Explore the Findings**: Check if Richmond’s night prices (maybe around 149.8 cents/liter at 11 PM!) beat the rest. Let me know what you think! 😄  
 
 ## What’s Inside? 📋  
-- `Vancouver Gas Price Analysis.ipynb`: The main notebook where I crunch the numbers and create those awesome charts.  
+- `Vancouver Gas Price Analysis.ipynb`: The main notebook where I crunch the numbers and create those awesome charts. 
 - `requirements.txt`: A list of Python goodies (like pandas and seaborn) you’ll need to run it.  
 - `README.md`: You’re reading it—this guide to get you going!  
 
