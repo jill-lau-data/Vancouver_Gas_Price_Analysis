@@ -12,7 +12,7 @@ This project isn’t just for me—it’s for anyone who wants to save on gas, w
 
 ## What’s Inside the Project? 🗂️  
 Here’s a quick peek at how everything’s organized:  
-- `fetcher/`: This is where the magic of collecting gas prices happens!  
+- `fetcher/`: This is where the magic of collecting gas prices happens! 
   - `fetcher/gas_price_fetcher.js`: The script that does the heavy lifting.  
   - `fetcher/README.md`: A step-by-step guide on how to use it.  
 - `analysis/`: This is where I crunch the numbers and find the good stuff!  
