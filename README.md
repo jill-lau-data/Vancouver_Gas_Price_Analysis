@@ -1,6 +1,6 @@
 # ⛽ Vancouver Gas Price Analysis Project 🚗💨
 
-## Hey There! Let’s Talk Gas Prices! 🗣️  
+## Hey There! Let’s Talk Gas Prices! 🗣️   
 Have you ever heard that gas prices in some spots around Greater Vancouver (not counting Abbotsford) can be a total steal? 🌟 I sure have—my friends always say Richmond’s got the cheapest gas at night, especially after we’ve had a great dinner together. They’ll swing by, fill up their tanks, and save a few bucks! But is that just a lucky coincidence, or is there something to it? 🤔 That’s exactly why I started this **Vancouver Gas Price Analysis Project**—to dig into the data, prove it’s not just a random trick, and help us all find the best times and places to fuel up. Let’s save some cash together! 💸
 
 ## What’s This Project About? 📊  
